@@ -1,0 +1,13 @@
+.selling_heading{
+    font-size:35px;
+    color:black;
+    text-decoration: underline;
+}
+.main-body img{
+    height:45%;
+    width:auto;
+}
+.price{
+    font-size:30px;
+    color:black;
+}
